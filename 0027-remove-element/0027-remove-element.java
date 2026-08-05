@@ -22,8 +22,6 @@ class Solution {
 			}
 		}
 
-        int k = nums.length - count;
-
-        return k;
+        return nums.length - count;
     }
 }
