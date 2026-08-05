@@ -1,5 +1,16 @@
-# leetcode-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Leetcode Solutions
+This repository contains my accepted LeetCode solutions, primarily written in **Java**, and is automatically synchronized with GitHub.
+
+## Language
+- Java
+
+## Purpose
+- Practice Data Structures & Algorithms
+- Prepare for coding interviews
+- Track problem-solving progress
+
+---
+*Solutions are synced automatically after successful submissions.*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
