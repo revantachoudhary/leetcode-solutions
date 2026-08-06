@@ -42,8 +42,17 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | ------- |
 | [0066-plus-one](https://github.com/RCROX/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RCROX/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RCROX/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RCROX/leetcode-solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RCROX/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RCROX/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
