@@ -36,8 +36,14 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RCROX/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RCROX/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RCROX/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/RCROX/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RCROX/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
