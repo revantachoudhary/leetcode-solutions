@@ -11,7 +11,7 @@ class Solution {
     
             int mid = l + (r - l) / 2;
 
-            if (mid == x / mid && x % mid == 0) {
+            if (mid == x / mid) {
                 return mid;
             }
 
