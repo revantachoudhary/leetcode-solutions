@@ -18,6 +18,7 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RCROX/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/RCROX/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
