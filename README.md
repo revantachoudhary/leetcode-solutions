@@ -33,6 +33,7 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | [0066-plus-one](https://github.com/RCROX/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RCROX/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RCROX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RCROX/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | ------- |
 | [0035-search-insert-position](https://github.com/RCROX/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RCROX/leetcode-solutions/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RCROX/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +68,5 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RCROX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RCROX/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
