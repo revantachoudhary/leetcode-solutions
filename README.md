@@ -34,6 +34,7 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RCROX/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RCROX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RCROX/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RCROX/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,8 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RCROX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RCROX/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RCROX/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
