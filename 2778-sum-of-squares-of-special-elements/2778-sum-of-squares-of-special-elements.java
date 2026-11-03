@@ -5,7 +5,7 @@ class Solution {
 
         for (int i = 1; i <= n; i++) {
             if (n % i == 0) {
-                sum += Math.pow(nums[i - 1], 2);
+                sum += nums[i - 1] * nums[i - 1];
             }
         }
         return sum;
