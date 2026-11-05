@@ -53,6 +53,7 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | [0069-sqrtx](https://github.com/RCROX/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RCROX/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RCROX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0836-rectangle-overlap](https://github.com/RCROX/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RCROX/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
 |  |
@@ -76,4 +77,8 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RCROX/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RCROX/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
