@@ -36,6 +36,7 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | [2089-find-target-indices-after-sorting-array](https://github.com/RCROX/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RCROX/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RCROX/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RCROX/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +83,8 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RCROX/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RCROX/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
