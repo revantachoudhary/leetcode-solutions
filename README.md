@@ -35,6 +35,7 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RCROX/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RCROX/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RCROX/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/RCROX/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RCROX/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RCROX/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -87,5 +88,6 @@ This repository contains my accepted LeetCode solutions, primarily written in **
 ## Hash Table
 |  |
 | ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/RCROX/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RCROX/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
